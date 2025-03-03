@@ -1,0 +1,16 @@
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\bin\Debug\ejercicio3.dll
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\bin\Debug\ejercicio3.pdb
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.AssemblyReference.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.GenerateResource.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.CoreCompileInputs.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.dll
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.pdb
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.ImagePlayer.resources
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\bin\Debug\ejercicio3.dll
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\bin\Debug\ejercicio3.pdb
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.AssemblyReference.cache
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.ImagePlayer.resources
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.GenerateResource.cache
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.csproj.CoreCompileInputs.cache
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.dll
+E:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio3\ejercicio3\obj\Debug\ejercicio3.pdb
