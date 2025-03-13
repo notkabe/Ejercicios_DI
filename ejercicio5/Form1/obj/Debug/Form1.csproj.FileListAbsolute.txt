@@ -1,0 +1,13 @@
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\bin\Debug\Form1.exe.config
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\bin\Debug\Form1.exe
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\bin\Debug\Form1.pdb
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\bin\Debug\ejercicio5.dll
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\bin\Debug\ejercicio5.pdb
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.Form1.resources
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.Properties.Resources.resources
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.csproj.Up2Date
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.exe
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\Form1\obj\Debug\Form1.pdb

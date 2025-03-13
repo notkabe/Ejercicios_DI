@@ -1,0 +1,8 @@
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\bin\Debug\ejercicio5.dll
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\bin\Debug\ejercicio5.pdb
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csproj.AssemblyReference.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\obj\Debug\ejercicio5.UserControl1.resources
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csproj.GenerateResource.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\obj\Debug\ejercicio5.dll
+D:\2º DAM\Curso 24-25\Diseño de Interfaces\2ª AV\Tema 5\Ejercicios\ejercicio5\ejercicio5\obj\Debug\ejercicio5.pdb
